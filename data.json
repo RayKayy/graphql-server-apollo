@@ -1,0 +1,19 @@
+{
+  "mainPage": {
+    "title": "Raymond Kwan",
+    "lines": [
+      "A Software Developer with a passion for anything technology related",
+      "From Hong Kong. Raised in Shanghai. Living in Toronto."
+    ],
+    "author": "Raymond Kwan",
+    "maintainer": "Raymond"
+  },
+  "pages": {
+    "about": {
+      "paragraphs": [
+        "p1",
+        "p2"
+      ]
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "name": "graphql-server-apollo",
+  "version": "1.0.0",
+  "description": "A GraphQL server using the Apollo library",
+  "main": "index.js",
+  "dependencies": {
+    "apollo-server": "^2.8.0",
+    "graphql": "^14.4.2",
+    "load-json-file": "^6.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RayKayy/graphql-server-apollo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RayKayy/graphql-server-apollo/issues"
+  },
+  "homepage": "https://github.com/RayKayy/graphql-server-apollo#readme"
+}
