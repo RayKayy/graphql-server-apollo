@@ -4,7 +4,7 @@
   "description": "A GraphQL server using the Apollo library",
   "main": "index.js",
   "dependencies": {
-    "apollo-server": "^2.8.0",
+    "apollo-server": "^2.25.3",
     "graphql": "^14.4.2",
     "load-json-file": "^6.2.0"
   },
